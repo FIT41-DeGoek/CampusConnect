@@ -1,0 +1,26 @@
+2025-10-28T20:54:42+01:00 ERROR Invalid address:  (From): wordpress@localhost
+2025-10-28T20:54:42+01:00 ERROR Invalid address:  (From): wordpress@localhost
+2025-10-28T21:05:42+01:00 ERROR Could not instantiate mail function.
+2025-10-28T21:05:42+01:00 INFO Email Sending
+2025-10-28T21:05:42+01:00 INFO Email Sending failed
+2025-10-28T21:05:42+01:00 ERROR Could not instantiate mail function.
+2025-10-28T21:05:42+01:00 INFO Email Sending
+2025-10-28T21:05:42+01:00 INFO Email Sending failed
+2025-10-28T21:06:55+01:00 ERROR Could not instantiate mail function.
+2025-10-28T21:06:55+01:00 INFO Email Sending
+2025-10-28T21:06:55+01:00 INFO Email Sending failed
+2025-10-28T21:06:55+01:00 ERROR Could not instantiate mail function.
+2025-10-28T21:06:55+01:00 INFO Email Sending
+2025-10-28T21:06:55+01:00 INFO Email Sending failed
+2025-11-18T19:35:04+01:00 ERROR Die E-Mail-Funktion konnte nicht instanziiert werden.
+2025-11-18T19:35:04+01:00 INFO Email Sending
+2025-11-18T19:35:04+01:00 INFO Email Sending failed
+2025-11-18T19:35:04+01:00 ERROR Die E-Mail-Funktion konnte nicht instanziiert werden.
+2025-11-18T19:35:04+01:00 INFO Email Sending
+2025-11-18T19:35:04+01:00 INFO Email Sending failed
+2025-11-25T20:40:13+01:00 ERROR Die E-Mail-Funktion konnte nicht instanziiert werden.
+2025-11-25T20:40:13+01:00 INFO Email Sending
+2025-11-25T20:40:13+01:00 INFO Email Send Successfully
+2025-11-25T20:40:13+01:00 ERROR Die E-Mail-Funktion konnte nicht instanziiert werden.
+2025-11-25T20:40:13+01:00 INFO Email Sending
+2025-11-25T20:40:13+01:00 INFO Email Send Successfully
